@@ -24,4 +24,8 @@
 
 A gente se vê codando por aí!
 
+<a href="https://www.instagram.com/raquelsilvax" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/raquelsilvax">
+</a>
+
 <div align="center"> <img src="octocat-1686770367973.png" alt="" width="300px" /> </div>
