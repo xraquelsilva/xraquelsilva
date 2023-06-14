@@ -27,7 +27,12 @@ A gente se vê codando por aí!
 <a href="https://www.instagram.com/raquelsilvax" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/raquelsilvax">
 </a>
+<a href="https://www.twitter.com/raquelsilvax" alt="Twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/raquelsilvax">
+</a>
+<a href="https://www.linkedin.com/in/raquelsilvax/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquelsilvax">
+</a>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <div align="center"> <img src="octocat-1686770367973.png" alt="" width="300px" /> </div>
