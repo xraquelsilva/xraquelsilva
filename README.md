@@ -14,7 +14,7 @@
 ### Olá, você! Sou a Raquel. 👋
 
 <ul>
-  <li>Minha atual jornada é acadêmica. Sou aluna de BSI na UFRPE, cursando, atualmente, o meu 3º período.</li>
+  <li>Minha atual jornada é acadêmica. Sou aluna de BSI na UFRPE, cursando, atualmente, o meu 4º período.</li>
   <li>tenho interesse na área de aplicações front-end.</li>
   <li>Estou desenvolvendo minhas habilidades em Machine Learning e MySQL.</li>
   <li>Já estive em contato com python, javascript, html+css e... quem sabe o que mais está por vir?</li>
