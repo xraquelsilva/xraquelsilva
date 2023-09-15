@@ -1,7 +1,7 @@
 ### Hello, you! It's Raquel. 👋
 
 <ul>
-  <li>My current journey is academic. I'm a student of Information Systems at UFRPE, currently in my 3th term.</li>
+  <li>My current journey is academic. I'm a student of Information Systems at UFRPE, currently in my 4th semester.</li>
   <li>My areas interests are in front-end applications.</li>
   <li>Working on developing my skills in Machine Learning and MySQL.</li>
   <li>Already been in touch with python, javascript, html+css and... who knows what come next?! </li>
