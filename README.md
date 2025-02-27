@@ -1,7 +1,7 @@
 ### Hello, you! It's Raquel. 👋
 
 <ul>
-  <li>My current journey is academic. I'm a student of Information Systems at UFRPE, currently in my 5th semester.</li>
+  <li>My current journey is academic. I'm a student of Information Systems at UFRPE, currently in my 6th semester.</li>
   <li>Working on developing my skills in Machine Learning, MySQL and iOS development.</li>
   <li>Already been in touch with python, javascript, html+css and... who knows what come next?! </li>
 </ul>
@@ -13,7 +13,7 @@
 ### Olá, você! Sou a Raquel. 👋
 
 <ul>
-  <li>Minha atual jornada é acadêmica. Sou aluna de BSI na UFRPE, cursando, atualmente, o meu 5º período.</li>
+  <li>Minha atual jornada é acadêmica. Sou aluna de BSI na UFRPE, cursando, atualmente, o meu 6º período.</li>
   <li>Estou desenvolvendo minhas habilidades em Machine Learning, MySQL e desenvolvimento iOS.</li>
   <li>Já estive em contato com python, javascript, html+css e... quem sabe o que mais está por vir?</li>
 </ul>
