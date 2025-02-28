@@ -26,5 +26,9 @@ A gente se vê codando por aí!
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquelsilvax">
 </a>
 
+<a href="https://medium.com/@raquelsilvax" alt="Medium" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@raquelsilvax">
+</a>
+
 
 <div align="center"> <img src="octocat-1686770367973.png" alt="" width="300px" /> </div>
